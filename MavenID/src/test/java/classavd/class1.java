@@ -63,5 +63,5 @@ public class class1 {
 	}
 
 }
-the name is billa
-rockstar
+//the name is billa
+//rockstar
